@@ -2,4 +2,6 @@
 int main ()
 {
     std::cout << "aaaaaaaa" std::endl;
+
+    std::cout << "bb" << "ppppp" << std::endl;
 }
