@@ -7,6 +7,7 @@ int main ()
     std::cout << "cccc" std::endl;
     std::cout << "dddd" std::endl;
 
+
     std::cout << "bb" << "ppppp" << std::endl;
     std::cout << "bb" << "ooooo" << std::endl;
 }
