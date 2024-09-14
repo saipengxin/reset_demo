@@ -10,4 +10,6 @@ int main ()
 
     std::cout << "bb" << "ppppp" << std::endl;
     std::cout << "bb" << "ooooo" << std::endl;
+
+    std::cout << "bb" << "ooo" << std::endl;
 }
